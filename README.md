@@ -76,3 +76,4 @@ streamlit run app.py --server.port 8504
 - ✅ 自動輪詢更新（每 2 秒）
 - ✅ 訊息時間戳
 - ✅ 成員名稱不同顏色顯示
+🦐 trigger
